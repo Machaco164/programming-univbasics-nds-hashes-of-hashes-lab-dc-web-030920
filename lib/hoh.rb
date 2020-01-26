@@ -50,11 +50,11 @@ new_hash = {
         sub_category: {
           label: "Order",
             sub_category: {
-   label: "Family",
-   sub_category: {
-     label: "Genus",
-   }
- }
+             label: "Family",
+             sub_category: {
+               label: "Genus",
+             }
+           }
         }
      }
    }
