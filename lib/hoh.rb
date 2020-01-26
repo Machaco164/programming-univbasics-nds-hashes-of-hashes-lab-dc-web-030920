@@ -14,8 +14,7 @@
 #   }
 # }
 # 
-# PORTION_2 = {
-#   label: "Order"
+# PORTION_2 = validates_with"
 # }
 # 
 # PORTION_3 = {
