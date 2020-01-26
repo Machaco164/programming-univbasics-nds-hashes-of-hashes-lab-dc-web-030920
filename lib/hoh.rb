@@ -14,7 +14,8 @@
 #   }
 # }
 # 
-# PORTION_2 = validates_with"
+# PORTION_2 = {
+#   label: "Order"
 # }
 # 
 # PORTION_3 = {
@@ -48,5 +49,8 @@ new_hash = {
        label: "Class"
      }
    }
+ }
+ {
+   label: "Order"
  }
 end
